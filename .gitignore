@@ -13,3 +13,5 @@ kubeconfig
 
 # MacOS
 .DS_Store
+
+kubectl
